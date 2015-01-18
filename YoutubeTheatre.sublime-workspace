@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"port",
+				"portfolioData"
+			],
+			[
+				"query",
+				"queryFunc"
+			],
+			[
+				"quer",
+				"queryFunc"
+			],
+			[
+				"portfol",
+				"portfolioJSON"
+			],
+			[
+				"dis",
+				"disableFullscreen"
+			],
+			[
+				"disa",
+				"disableContextMenu"
+			],
+			[
+				"content",
+				"contentType"
+			],
+			[
+				"piec",
+				"piecesJSON"
+			],
+			[
+				"get",
+				"getPiece"
+			],
+			[
+				"outer",
+				"outerWidth"
+			],
+			[
+				"unch",
+				"uncheckedUp"
+			],
+			[
+				"isPre",
+				"isPressedOnce"
+			],
+			[
+				"isPressed",
+				"isPressedFirst"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"_x",
+				"_x"
+			],
+			[
+				"onKey",
+				"onKeyDown"
+			],
+			[
+				"t",
+				"type	$.type()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/.gitignore",
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/_locales/en/messages.json",
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/ext/_locales/en/messages.json",
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/ext/manifest.json",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.928/src/gamecontrol/control.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.015/src/gamecontrol/world.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.025/src/gamecontrol/itemclass.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.517/src/config/inputlogicrender.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.398/src/Main.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.106/src/logic.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.048/src/com/terry/engine/astar.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.310/src/com/terry/engine/textbox.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DIa0.480/game.as",
+		"/C/Users/Vinny/AppData/Local/Temp/Rar$DRa0.920/src/com/terry/engine/key.as",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/public/javascripts/game/game.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/backgroundgame.jade",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/error.jade",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/vinnymakesgames.sublime-workspace",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/bin/www",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/data/portfolioPieces.json",
+		"/D/Vinny/Documents/Google Drive/Semester 3/GAME 321 - Modelling for Games/ImportExport/Final/Export",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/public/javascripts/analytics.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/contentTypes/unityContent.jade",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/public/javascripts/game/player.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/bin/portfolio.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/public/javascripts/game/bullet.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/data/portfolio-piece.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/data/router.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/app.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/npm-debug.log",
+		"/C/Users/Vinny/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/router.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/routes/router.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/routes/portfolio.js",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/test.jade",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/public/stylesheets/style.css",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/game.jade",
+		"/D/Vinny/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/D/Vinny/Documents/ShareX/HotkeysConfig.json",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/routes/index.js",
+		"/C/Users/Vinny/.ssh/id_rsa.pub",
+		"/C/Users/Vinny/.ssh/known_hosts",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/index.jade",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/views/analytics.jade",
+		"/D/Program Files/Sublime Text 2/sublime_text.exe",
+		"/D/Vinny/Desktop/sublime_text.exe",
+		"/D/Vinny/Documents/GitHub/vinnymakesgames/.gitignore",
+		"/C/Users/Vinny/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Vinny/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Vinny/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Vinny/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"doctype html\nhtml\n  head\n    title= title\n    link(rel='stylesheet', href='/stylesheets/style.css')\n    script(src='/javascripts/analytics.js')\n\n    block header\n\n  body\n    div#content\n        header\n            svg(width='600' height='200' viewBox=\"0 0 600 200\")\n                text(x='50%' y='50%' dy='0.3em' fill='red' font-size='100' font-weight='bolder' lengthAdjust='spacingAndGlyphs')\n                    | vinnyMakes\n                text(x='55%' y='75%' dy='0.3em' fill='red' font-size='50')\n                    | home &#8226 games &#25 news\n        div#body\n            block content\n\n        footer temp footer!",
+			"%'",
+			"focus",
+			"contentType",
+			"VinnyMakesGames",
+			"console",
+			"win",
+			"here",
+			" ",
+			"https",
+			"n",
+			"%,",
+			"\n    ",
+			"33 42"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"32 42"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
