@@ -115,6 +115,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/page_action/page_action.html",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -148,6 +164,7 @@
 	},
 	"file_history":
 	[
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/README.md",
 		"/D/Vinny/Documents/GitHub/YoutubeTheatre/.gitignore",
 		"/D/Vinny/Documents/GitHub/YoutubeTheatre/_locales/en/messages.json",
 		"/D/Vinny/Documents/GitHub/YoutubeTheatre/ext/_locales/en/messages.json",
@@ -249,8 +266,63 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/page_action/page_action.html",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -310,6 +382,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 166.0,
+	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }

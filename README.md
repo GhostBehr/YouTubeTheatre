@@ -1,2 +1,2 @@
-# YoutubeTheatre
-Simple Chrome extension to stretch youtube videos to fit window
+# YouTubeTheatre
+Simple Chrome extension to stretch YouTube videos to fit window

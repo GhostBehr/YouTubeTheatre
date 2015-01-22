@@ -1,18 +1,24 @@
 {
-  "name": "CHANGE THIS : Extension boilerplate",
-  "version": "0.0.1",
+  "name": "YouTube Theatre",
+  "permissions": [
+    "declarativeContent"
+  ],
+  "version": "0.1.0",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
-  "homepage_url": "http://extensionizr.com",
+  "description": "Reload YouTube videos in full windowed mode",
+  "homepage_url": "https://github.com/GhostBehr/YoutubeTheatre",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
   "default_locale": "en",
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": true
+  },
   "page_action": {
     "default_icon": "icons/icon19.png",
-    "default_title": "page action demo",
-    "default_popup": "src/page_action/page_action.html"
+    "default_title": "YouTube Theatre"
   }
 }
