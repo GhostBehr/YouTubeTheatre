@@ -119,16 +119,28 @@
 			"file": "manifest.json",
 			"settings":
 			{
-				"buffer_size": 502,
+				"buffer_size": 552,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/page_action/page_action.html",
+			"file": "/D/Vinny/Documents/GitHub/YouTubeTheatre/js/background.js",
 			"settings":
 			{
-				"buffer_size": 423,
-				"line_ending": "Unix"
+				"buffer_size": 980,
+				"line_ending": "Windows",
+				"name": "// background"
+			}
+		},
+		{
+			"contents": "",
+			"file": "_locales/en/messages.json",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -164,6 +176,10 @@
 	},
 	"file_history":
 	[
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/src/page_action/page_action.html",
+		"/D/Vinny/Documents/GitHub/YouTubeTheatre/js/minimize.js",
+		"/D/Vinny/Documents/GitHub/YoutubeTheatre/js/maximize.js",
+		"/D/Vinny/Documents/GitHub/YouTubeTheatre/js/background.js",
 		"/D/Vinny/Documents/GitHub/YoutubeTheatre/README.md",
 		"/D/Vinny/Documents/GitHub/YoutubeTheatre/.gitignore",
 		"/D/Vinny/Documents/GitHub/YoutubeTheatre/_locales/en/messages.json",
@@ -266,7 +282,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -274,15 +290,15 @@
 					"file": "manifest.json",
 					"settings":
 					{
-						"buffer_size": 502,
+						"buffer_size": 552,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								502,
-								502
+								364,
+								364
 							]
 						],
 						"settings":
@@ -299,10 +315,39 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/page_action/page_action.html",
+					"file": "/D/Vinny/Documents/GitHub/YouTubeTheatre/js/background.js",
 					"settings":
 					{
-						"buffer_size": 423,
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// background",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_locales/en/messages.json",
+					"settings":
+					{
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -315,7 +360,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

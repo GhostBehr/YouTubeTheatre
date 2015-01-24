@@ -1,1 +1,5 @@
-# No idea what to ignore in a chrome extension, will fill in later
+# Packaged Chrome extension
+.crx
+
+# Private key file (IT'S A SECRET)
+.pem
